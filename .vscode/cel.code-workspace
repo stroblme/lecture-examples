@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\CEL-NO~1\\sigNT"
+		},
+		{
+			"path": "..\\..\\CEL-NO~1\\mloc"
+		}
+	],
+	"settings": {
+		"python.pythonPath": "x:\\CEL-Notebooks\\venv\\Scripts\\python.exe"
+	}
+}
